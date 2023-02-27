@@ -1,0 +1,9 @@
+﻿-Trocar um Pneu:
+Para trocar basta pegar o macaco, levantar o carro, logo após usar a Chave De Roda, remover os parafusos do pneu e retira-lo.
+Depois, coloque outro pneu, coloque o parafusos e aperte com a Chave De Roda.
+
+-Tomar banho:
+Para tomar banho, precisa pegar uma toalha, entrar no banheiro, remover sua roupa, entrar no box, ligar o chuveiro, colocar o shampoo no cabelo, passar sabonete no corpo, remover o sabão, desligar o chuveiro, pegar a toalha, se secar, colocar a roupa e sair do banheiro.
+
+-Calçar o Tênis:
+Para calçar o tênis, você precisa pegar o tênis na sapateira, colocar a meia no pé, calçar e amarra-lo. 
